@@ -1,1 +1,1 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Team project built with Ruby on Rails, JavaScript, HTML and CSS. It was created for helping user to learn a new language by searching and meeting up with local fluent speakers who would like to teach. 
